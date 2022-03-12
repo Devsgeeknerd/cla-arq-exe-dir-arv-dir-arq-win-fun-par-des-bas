@@ -1,6 +1,8 @@
 <!-- TITLE -->
 # Elementos Flutuantes
 
+* Basicamente é um elemento que apesar da estrutura inteira do site ele vai ficar por cima do site.
+
 <!-- TABLE OF CONTENTS -->
 ## TABELA DE CONTEÚDO
 
